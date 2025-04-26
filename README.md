@@ -4,15 +4,25 @@ Welcome to my personal lab at the intersection of political analysis and artific
 
 This repository documents my transition from international affairs to the application of AI for political modeling, discourse analysis, and hybrid conflict research.
 
-## 🧭 Project: NLP Analysis of Political Rhetoric
+## 🧭 Project: Narratives of Identity and Loyalty — NLP-Based Discourse Analysis of Russian Psychological Warfare
 
-A focused exploration into the linguistic patterns and rhetorical strategies employed by political actors, using natural language processing tools.
+This project explores how Russian pro-government Telegram channels manipulate concepts of identity, loyalty, and belonging through targeted narratives. In the aftermath of political repressions and mass emigration, the regime’s information ecosystem has increasingly weaponized cultural disorientation and national mythmaking to delegitimize dissent and reinforce authoritarian loyalty.
+
+Using natural language processing (NLP) techniques, this project analyzes rhetorical strategies aimed at:
+
+- Redefining "Russianness" to exclude political opponents and exiles.
+- Appropriating anti-elitist and nationalist rhetoric while defending a deeply entrenched imperial establishment.
+- Gaslighting dissenters through pejorative labeling (e.g., "transukrainians") to delegitimize their claims to Russian identity.
+- Creating ideological ambiguity by conflating ethnic, civic, and imperial definitions of nationhood to suppress coherent opposition narratives.
+
+Through this analysis, the project seeks to reveal the internal contradictions of pro-regime discourse, the methods of psychological warfare targeting emigrant communities, and the broader role of narrative control in hybrid authoritarianism.
 
 ### Key Research Questions
 
-- What linguistic markers distinguish militarized or aggressive political rhetoric?
-- How do rhetorical strategies vary across countries, political systems, or actor types?
-- Can we model the potential escalation of conflict based on discursive shifts?
+- How is national identity reconstructed in pro-government narratives under conditions of political crisis?
+- What linguistic patterns signal psychological warfare tactics against dissenting or exiled Russians?
+- How do contradictions between imperial, nationalist, and anti-elitist rhetoric manifest linguistically?
+- Can discourse analysis expose the regime's vulnerabilities in sustaining its legitimacy narrative?
 
 ### Technologies & Tools
 
@@ -32,22 +42,23 @@ ai-policy-lab/
 └── references/         # Academic references and source documents
 ```
 
-### Data Sources (to be expanded)
+### Data Sources
 
-- Speeches from the UN, world leaders, and parliaments
-- Political news articles and official statements
+- Posts from selected Russian pro-government Telegram channels (to be collected and analyzed)
+- Supplementary political speeches, state media publications, and official statements where relevant
 
 ### Future Directions
 
-- Dashboard for rhetorical evolution
-- Time-series and geographical mapping
-- Classification model training for rhetorical types
+- Mapping discursive clusters and contradictions across different ideological factions
+- Comparative analysis with independent and opposition media narratives
+- Development of a typology for psychological manipulation techniques in authoritarian digital propaganda
+- Application of time-series analysis to trace narrative evolution during political crises
 
 ## 🎯 Goals
 
-- Learn and apply AI tools (LLMs, NLP, data modeling) to real-world political problems
-- Build projects demonstrating the use of AI in international relations, strategy, and public discourse
-- Create a portfolio to support career transition to tech-policy or AI-driven strategic analysis
+- Master and apply AI tools (LLMs, NLP, data modeling) to real-world political and strategic challenges
+- Build substantive projects demonstrating the use of AI in international relations, hybrid conflict research, and discourse analysis
+- Establish a portfolio to support career transition toward tech-policy, strategic analysis, or AI-assisted political research
 
 ## 👨‍💻 Author
 
