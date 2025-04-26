@@ -1,4 +1,7 @@
 # 🧠 AI + Political Analysis Lab
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 
 Welcome to my personal lab at the intersection of political analysis and artificial intelligence.
 
