@@ -1,0 +1,9 @@
+transformers
+datasets
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+jupyter
